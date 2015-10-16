@@ -1,6 +1,6 @@
 name: MattPerger
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.5667072613723576
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: sign-ups
     item: null
     url: null
+typography_spectrum: 0.4827118644025177
